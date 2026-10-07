@@ -1,45 +1,22 @@
-PERSONAL INFORMATION	Ruel Sangma
+#PERSONAL INFORMATION	
+#Ruel Sangma
+Room no. 504, 4th Floor, Biam Foundation, 63 New Eskaton, Dhaka 1200, Bangladesh.
+Phone +8801712763685      +8801920387469
+email: sangma.ruel@gmail.com 
+https://www.linkedin.com/in/ronaldchsm/
+Sex-Male | Date of birth- 05/071990 | Nationality-Bangladeshi 
 
-SCHOLARSHIP APPLIED FOR
-OR, STUDIES APPLIED FOR
-	Master’s in Public Policy,  Master’s in Project Managment,
- 	 Room no. 504, 4th Floor, Biam Foundation, 63 New Eskaton, Dhaka 1200, Bangladesh.
-
-	 +8801712763685      +8801920387469
-
-	 Sangma.ruel@gmail.com 
-
-	https://www.linkedin.com/in/ronaldchsm/
-
-	      Sex-Male | Date of birth- 05/071990 | Nationality-Bangladeshi 
-
-
- 
-	   Master’s in Public Policy , Masters in Project Management
-EDUCATION AND TRAINING	  
-
- April 2013-May 2014
-
-
-November 2008-March 2013
-
-
-August 2006-September 2008
-
-
-January 2004-June 2006	MSS (Masters of Social Science) in Peace and Conflict Studies
-University Of Dhaka, Bangladesh
-
-BSS (Bachelor of Social Science) in Peace and Conflict Studies
-University Of Dhaka, Bangladesh
-
-HSC (Higher Secondary Certificate) in Business Studies
-Notre Dame College, Dhaka  
-
+#SCHOLARSHIP APPLIED FOR OR, STUDIES APPLIED FOR
+Master’s in Public Policy,  Master’s in Project Managment,
+ 	
+#EDUCATION AND TRAINING	  
+MSS (Masters of Social Science) in Peace and Conflict Studies University Of Dhaka, Bangladesh      April 2013-May 2014-November 2008-March 2013
+BSS (Bachelor of Social Science) in Peace and Conflict Studies University Of Dhaka, Bangladesh      August 2006-September 2008
+HSC (Higher Secondary Certificate) in Business Studies, Notre Dame College, Dhaka            January 2004-June 2006	
 SSC (Secondary School Certificate) in Business Studies
 Saint Andrew’s High School, Haluaghat, Mymensing  
 	
-WORK EXPERIENCE	 
+#WORK EXPERIENCE	 
 
 October 2025-Present
 
