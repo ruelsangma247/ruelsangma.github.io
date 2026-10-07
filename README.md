@@ -8,10 +8,10 @@ email: sangma.ruel@gmail.com
 https://www.linkedin.com/in/ronaldchsm/
 Sex-Male | Date of birth- 05/071990 | Nationality-Bangladeshi 
 
-# SCHOLARSHIP APPLIED FOR OR, STUDIES APPLIED FOR
+## SCHOLARSHIP APPLIED FOR OR, STUDIES APPLIED FOR
 Master’s in Public Policy,  Master’s in Project Managment,
  	
-# EDUCATION AND TRAINING	  
+## EDUCATION AND TRAINING	  
 MSS (Masters of Social Science) in Peace and Conflict Studies University Of Dhaka, Bangladesh      April 2013-May 2014-November 2008-March 2013
 
 BSS (Bachelor of Social Science) in Peace and Conflict Studies University Of Dhaka, Bangladesh      August 2006-September 2008
@@ -20,9 +20,9 @@ HSC (Higher Secondary Certificate) in Business Studies, Notre Dame College, Dhak
 
 SSC (Secondary School Certificate) in Business Studies Saint Andrew’s High School, Haluaghat, Mymensing  
 	
-# WORK EXPERIENCE	 
+## WORK EXPERIENCE	 
 
-# Assistant Director (Senior Assistant Secretary), October 2025-Present
+### Assistant Director (Senior Assistant Secretary), October 2025-Present
 BIAM Foundation, Ministry of Public Administration
 63 New Eskaton, Dhaka-12000
 www.biamfoundation.gov.bd
@@ -37,7 +37,7 @@ www.biamfoundation.gov.bd
 
 •	Supervise ICT systems, AV equipment, and training facilities.
 
-# Upazila Nirbahi Officer (UNO),  November 2024-August 2025
+### Upazila Nirbahi Officer (UNO),  November 2024-August 2025
 Office of the Upazila Nirbahi Officer, Atpara, Netrokona
 Ministry of Public Administration (Government of Bangladesh)
 
@@ -55,7 +55,7 @@ Ministry of Public Administration (Government of Bangladesh)
 
 •	Serve as Chief Executive of Upazila Parishad and guides elected representatives to take sustainable development works.
 
-# Chief Executive Officer (CEO), September 2023-November 2024
+### Chief Executive Officer (CEO), September 2023-November 2024
 Zila Parishad, Madaripur
 Ministry of Local Government Division (LGD)
 •	Plan, coordinate, and monitor local infrastructure development projects (e.g. roads, bridges, schools, markets, etc.). 
@@ -71,7 +71,7 @@ Ministry of Local Government Division (LGD)
 •	Serve as Chief Executive of Zila Parishad and guides elected representatives to take sustainable development works.
 
 
-# Upazila Nirbahi Officer (UNO),  August 2022- September 2023
+### Upazila Nirbahi Officer (UNO),  August 2022- September 2023
 Office of the Upazila Nirbahi Officer, Atpara, Netrokona
 Ministry of Public Administration (Government of Bangladesh)
 
@@ -83,7 +83,7 @@ Ministry of Public Administration (Government of Bangladesh)
 
 •	Supervised government service delivery in schools, hospitals, and agriculture offices to ensure quality service delivery.
 
-# Camp-in-Charge (Senior Assistant Secretary), June 2022-August 2022
+### Camp-in-Charge (Senior Assistant Secretary), June 2022-August 2022
 Office of the Refugee Relief and Repatriation Commissioner, Cox’s Bazar
 Ministry of Disaster Management and Relief (Government of Bangladesh)
 
@@ -99,7 +99,7 @@ Ministry of Disaster Management and Relief (Government of Bangladesh)
 
 •	Maintained camp digital governance management, and provided regular reporting to central authorities.
 
-# Revenue Deputy Collector, October 2021-May 2022
+### Revenue Deputy Collector, October 2021-May 2022
 Office of the Deputy Commissioner, Sherpur
 Ministry of Public Administration (Government of Bangladesh)
 
@@ -113,7 +113,7 @@ Ministry of Public Administration (Government of Bangladesh)
 
 •	Monitored and coordinated the activities of Assistant Commissioners (Land).
 
-# Assistant Commissioner (Land), September 2019-October 2021
+### Assistant Commissioner (Land), September 2019-October 2021
 Upazila Land Office, Durgapur, Netrokona
 Ministry of Land (Government of Bangladesh)
 
@@ -125,7 +125,7 @@ Ministry of Land (Government of Bangladesh)
 
 •	Provided citizen services and ensured the protection of government (Khas) land.
 
-# Assistant Commissioner (Land), March 2019-August 2019
+### Assistant Commissioner (Land), March 2019-August 2019
 Upazila Land Office, Kolmakanda, Netrokona
 Ministry of Land (Government of Bangladesh)
 
@@ -135,7 +135,7 @@ Ministry of Land (Government of Bangladesh)
 
 •	Performed land administration, revenue collection, and land record maintenance duties typical of an Assistant Commissioner (Land) role.
 
-# Assistant Commissioner, June 2016-March 2019
+### Assistant Commissioner, June 2016-March 2019
 Office of the Deputy Commissioner, Habiganj
 Ministry of Public Administration (Government of Bangladesh)
 
@@ -145,7 +145,7 @@ Ministry of Public Administration (Government of Bangladesh)
 
 •	Performed magisterial duties to maintain law and order situation during elections, public examinations, and mobile court operations. 
 
-# COURSES, CERTIFICATIONS HONOURS AND AWARDS	
+### COURSES, CERTIFICATIONS HONOURS AND AWARDS	
 
 •	About 50 articles were published especially on ethnic culture and tradition of the Garos in the platform 
 
@@ -159,67 +159,66 @@ Ministry of Public Administration (Government of Bangladesh)
 
 •	Four Days Training on Management Skills for Project Executives by National Academy For Planning and Development, Nilkhet, Dhaka
 
-# PERSONAL SKILLS	  
+## PERSONAL SKILLS	  
 
-# Mother tongue(s)	Garo
+## Mother tongue(s)	Garo
 	
-# Other language(s)	UNDERSTANDING 	SPEAKING 	WRITING 
+## Other language(s)	UNDERSTANDING 	SPEAKING 	WRITING 
 	Listening 	Reading 	Spoken interaction 	Spoken production 	
 	
-# Bengali	Excellent	Excellent	Excellent	Excellent	Excellent
+## Bengali	Excellent	Excellent	Excellent	Excellent	Excellent
 	Replace with name of language certificate. Enter level if known.
-# English	B2	B2	B2	B2	B2
+## English	B2	B2	B2	B2	B2
 
-	IELTS
-	Levels: A1/A2: Basic user - B1/B2: Independent user - C1/C2 Proficient user
+	# IELTS Levels: A1/A2: Basic user - B1/B2: Independent user - C1/C2 Proficient user
 	
 	Common European Framework of Reference for Languages
 
-# Communication skills	
+## Communication skills	
 
 •	Remarkable leadership, interpersonal skills and ability to communicate complex ideas clearly and persuasively was evident in both classroom discussions and presentations.
 
 •	Outstanding professional knowledge and skills, including strategic problem-solving, effective communication, and the ability to work under pressure. Dedication to duties and capacity to lead and inspire team have been particularly impressive.
 
 
-# Organizational / managerial skills
+## Organizational / managerial skills
 •	Long professional experiences have complemented with academic background, providing with a well-rounded perspective on public policy and governance, development, and conflict resolution. 
 
 •	Profound knowledge on development projects and leadership roles within the organization underscore competency to apply theoretical knowledge to practical challenges, making significant contributions to field.
 
 •	Academic accomplishments, combined with professional experience and dedication to public service, make an ideal candidate. An exceptional individual who will undoubtedly make valuable contributions to the program and benefit greatly from the opportunities it offers.
 
-# Job-related skills
+## Job-related skills
 
 •	Good command of project management, project implementation and project monitoring.
 
 •	Profound knowledge on public financial management and accounting.
 
-# Digital competence	SELF-ASSESSMENT
+## Digital competence	SELF-ASSESSMENT
 •	Information processing	Communication	Content creation	Safety	Problem solving
 
 •	Proficient User	Proficient User	Proficient User	Proficient User	Proficient User
 
 •	Levels: Basic user  - Independent user  -  Proficient user
 
-# Digital competences - Self-assessment grid 
+## Digital competences - Self-assessment grid 
 
-# Expertise in ICT
+## Expertise in ICT
 ▪	Good command on Microsoft Office tools
 
 ▪	Well literate in Canva, Adobe Photoshop, Adobe Illustrator
 
 ▪	Proficient in CMS website management and Word press Development
 
-# Other skills
+## Other skills
 Programming Language Skills
 
 • Programming Language Skills such as HTML, CSS, Bootstrap, PHP/MySQL Basic, Word press, Google Analytics, Digital Marketing Skills, etc.
 
 • Driving license	Non-Professional (Light) 
 
-# ADDITIONAL INFORMATION	  
-# Memberships: Social Skills Competences	
+## ADDITIONAL INFORMATION	  
+### Memberships: Social Skills Competences	
 •	Member of the 34thBCS All Cadre Association. 
 
 •	Member of the 34thBCS Administration Cadre Association. 
@@ -232,8 +231,8 @@ Programming Language Skills
 
 •	Member of Jagannath Hall Dhaka University Alumni Association. 
 
-# REFERENCES	  
-# Academic:
+## REFERENCES	  
+### Academic:
 Mohammad Shaheenur Alam
 Assistant  Professor
 Department of Peace and Conflict Studies
@@ -243,7 +242,7 @@ Mobile: +8801712-296527
 Work Phone: +8809666911463 (Ext 6741)
 E-mail: shaheen@du.ac.bd
 
-# Professional:
+### Professional:
 Jalal Uddin
 Director (Deputy Secretary),
 Bangladesh Institute of Administration and Management (Biam) Foundation
