@@ -60,6 +60,19 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+
+    # New Gemfile
+
+    source "https://rubygems.org"
+
+gem "jekyll", "~> 4.3"
+gem "github-pages", "~> 232", group: :jekyll_plugins
+
+group :jekyll_plugins do
+  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-seo-tag", "~> 2.8"
+end
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+0
